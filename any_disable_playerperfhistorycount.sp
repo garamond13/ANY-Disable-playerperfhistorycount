@@ -4,7 +4,7 @@
 #pragma newdecls required
 
 public Plugin myinfo = {
-	name = "ANY disable playerperfhistorycount",
+	name = "ANY Disable playerperfhistorycount",
 	author = "Garamond",
 	description = "Sets sv_playerperfhistorycount to 0",
 	version = "1.0.0",
